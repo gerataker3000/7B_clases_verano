@@ -1,7 +1,7 @@
 from antlr4 import*
 from ExprLexer import ExprLexer
 import sys
-
+# Pobre ingeniero solo
 # leer archivos
 input_stream = FileStream(sys.argv[1])
 
